@@ -1,1 +1,1 @@
-A very simple Virtual stack machine implementation 
+A very simple stack based Virtual machine implementation 
